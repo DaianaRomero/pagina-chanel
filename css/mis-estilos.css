@@ -1,0 +1,80 @@
+
+
+/*fuentes*/
+small{
+    font-size: 18px;
+    
+}
+.nav-item1{
+    font-size: 25px;
+}
+.nav-item{
+    font-size: 18px;
+}
+.texto{
+    font-size: 18px;
+}
+.texto1{
+    font-size: 18px;
+}
+.texto2{
+    font-size: 20px; 
+}
+.titulo{
+    font-size: 36px;
+}
+.titulo1{
+    font-size: 25px;
+}
+
+/*layout*/
+
+#portada {
+    max-width: 1140px;
+    margin-left:auto;
+    margin-right:auto;
+    box-shadow: 0 13px 6px rgba(0,0,0,0.49);
+}
+
+#carousel .carousel-indicators {
+    bottom:46px;
+    top:auto;
+}
+#carousel .carousel-indicators li {
+    width:20px;
+    height:20px;
+    margin: 0 10px;
+    border-radius: 100%;
+    background-color: lightpink;
+    box-shadow: inset  0  6px  6px rgba(0,0,0,.5);
+}
+nav{
+    box-shadow: inset   0 -27px rgba(0,0,0,.05);
+}
+
+.boton{
+    border-radius: 0;}
+/*enlaces*/
+
+
+.linkk:focus {
+    outline: 2px dashed black;
+    outline-offset: 0.1px;
+    
+    
+    }
+.linkk:active{
+    background:white!important;
+    
+}
+.linkk:hover{
+    background:grey;
+    
+}
+
+
+ /*skin*/   
+
+body{
+    background-image: url(../imagenes/fondo.jpg);
+}

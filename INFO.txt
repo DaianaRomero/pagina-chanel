@@ -1,0 +1,5 @@
+Nombre:Daiana Ayelen Romero
+DNI:38097861
+Comisión:Turno tarde (horario:Viernes de 14 a 16 hs)
+El proyecto es una página de moda (como la de chanel), donde se habla de ropa, moda, perfume y donde hay fotos de modelos. Y por último se encuentra la sección de contacto.
+El navegador en que se probó fue Google Chrome y las horas dedicadas al proyecto fueron aproximadamente seis horas.
